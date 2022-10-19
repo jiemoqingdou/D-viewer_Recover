@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DViewer</string>
+    <string name="diameter">Diameter:</string>
+    <string name="done">Done</string>
+    <string name="indentify_button">Ratio</string>
+    <string name="start">start</string>
+</resources>
